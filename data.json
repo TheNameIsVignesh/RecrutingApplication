@@ -1,0 +1,10 @@
+{ 
+  "client_confidence": "High", 
+  "client_confidence_result_reason": "Client provided detailed information about their needs and expectations, indicating a clear understanding of their goals and a readiness to engage with the sales team's services.", 
+  "sales_team_confidence": "Moderate", 
+  "sales_team_confidence_result_reason": "The sales team demonstrated knowledge of the services and proposed a comprehensive approach, but there was some confusion regarding the client's budget and the scope of work required for PPC campaigns.", 
+  "meeting_summary": "The meeting involved discussions about the client's PPC expert requirements for Google AdWords and LinkedIn ads. The client, Sandeepa, is from Zazz, a company specializing in mobile application development and IT staffing. They are looking to generate more leads and have a budget of $xx to $xx per month for Google AdWords. The sales team, including Shashank and Sonia, proposed a strategy plan and will provide a detailed proposal by Tuesday.", 
+  "next_step_after_this_meeting": "The sales team will audit the client's current Google AdWords account, prepare a detailed strategy proposal, and schedule a follow-up meeting with the client's CEO, Abdullah, to discuss the proposal and strategy.", 
+  "any_strange_thing_from_client": "The client mentioned a high budget for PPC campaigns but expressed concerns about the cost-effectiveness of hiring a full-time PPC specialist for the budget allocated.", 
+  "any_strange_thing_from_sales": "The sales team initially suggested a full-time engagement without fully understanding the client's budget constraints for PPC campaigns, which could have led to a misalignment of expectations." 
+} 
